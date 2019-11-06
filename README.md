@@ -1,4 +1,4 @@
-#A React blog app 
+# A React blog app 
 
 **This app is created using**
 - React
